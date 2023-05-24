@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h2{
+  text-align: center;
+  margin: 40px;
+}
+#contenedor{
+  padding: 10px;
+  margin-left: 100px;
+  margin-top: 60px;
+  border-radius: 5%;
+}
+#contenedor1{
+  background-color: rgb(253, 246, 229);
+  padding: 4%;
+}
+#contenedor2{
+  border: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: rgb(237, 234, 217);
+  padding: 20px;
+  }
+th{
+  text-align: center;
+  }
+footer{
+  margin-top: 30px;
+  text-align: center;
+}
+#img1{
+  height: 150px;
+  margin-bottom: 40px;
+}
+#img2{
+  width: 500px;
+}
+p{
+  text-align: justify;
+  margin-bottom: 40px;
+}
+.form-control{
+  width: 500px;
+  margin-top: 10px;
+  }
+  
